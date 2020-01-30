@@ -19,7 +19,7 @@ The aim of the project was to find tissue-specific immunosuppressive domains in 
 To make a genome-wide search, two principal tools were used. We performed genome translation in 6 reading frames (3 forward and 3 reverse) using EMBOSS.6.6.0 and created local protein database. Then, a hidden Markov model of aligned amino acid sequences was created, which was used for search (HMMER-3.3). After that we launched local tblastn on the same data. We compared the obtained results and checked the differential expression using a GTEx database.
 
 #### Tools and databases:
-+ NCBI (**Homo sapiens** reference genome (assembly GRCh38.p13))
++ NCBI (*Homo sapiens* reference genome (assembly GRCh38.p13))
 + Emboss 6.6.0
 + mafft online
 + hmmer-3.3
