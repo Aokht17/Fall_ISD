@@ -28,10 +28,10 @@ To make a genome-wide search, two principal tools were used. We performed genome
 
 ## Results
 As a result, many unidentified loci were found, as well as non-coding RNAs. Among the detected protein products, the majority does not have tissue-specific expression. 
-3 loci encoding tissue-specific peptides were identified:
+3 loci encoding tissue-specific peptides were identified:  
 |              gene              | location |             tissue             |
 |:------------------------------:|:--------:|:------------------------------:|
-|  ERVW-1 (also known as HERV-W) |  7q21. 2 |       testis and placenta      |
+|  ERVW-1 (also known as HERV-W) |  7q21.2  |       testis and placenta      |
 | ERVV-1 (also known as HERV-V1) | 19q13.41 | kidney and some parts of brain |
 |        ERVV-2 (HERV-V2)        | 19q13.41 |             kidney             |
 
