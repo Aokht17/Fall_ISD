@@ -29,11 +29,9 @@ To make a genome-wide search, two principal tools were used. We performed genome
 ## Results
 As a result, many unidentified loci were found, as well as non-coding RNAs. Among the detected protein products, the majority does not have tissue-specific expression. 
 3 loci encoding tissue-specific peptides were identified:  
-|              gene              | location |             tissue             |
-|:------------------------------:|:--------:|:------------------------------:|
-|  ERVW-1 (also known as HERV-W) |  7q21.2  |       testis and placenta      |
-| ERVV-1 (also known as HERV-V1) | 19q13.41 | kidney and some parts of brain |
-|        ERVV-2 (HERV-V2)        | 19q13.41 |             kidney             |
++ ERVW-1 (also known as HERV-W), located at 7q21. 2, which is expressed mainly in testis and placenta
++ ERVV-1 (also known as HERV-V1), which is located at 19q13.41 and specific for kidney and some parts of the brain
++ ERVV-2 (HERV-V2), also located at 19q13.41, which is expressed mainly in kidney
 
 ## References
 Grandi, N., & Tramontano, E. (2018). *HERV Envelope Proteins: Physiological Role and Pathogenic Potential in Cancer and Autoimmunity*. Frontiers in Microbiology, 9.  
