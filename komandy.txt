@@ -1,0 +1,93 @@
+# For Emboss 6.6.0
+
+sudo apt-get install -y emboss                                                      # installation
+transeq GCF_000001405.39_GRCh38.p13_rna.fna protein_fasta_trans.fna -frame 6        # transcription in 6 reading frames
+
+
+# for HHMER-3.3
+
+hmmbuild hmmfile_list.hmm ali.afa                                     # creating of Hidden Markov Model from a file with aligned peptide sequences
+hmmsearch hmmfile_list.hmm protein_fasta_trans.fna >results_ali.txt   # searching in protein fasta
+
+
+# for ncbi-blast+
+
+makeblastdb -in 'GCF_000001405.39_GRCh38.p13_rna.fna' -dbtype nucl -title Human_database -out nucleotide  # creating local database from human reference genom
+tblastn -query my_peptides.fasta -db nucleotide -out output_file -outfmt 6                                # search using our peptide amino acid sequences as a query
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+                
+
+
+                
+
+
+                
+
