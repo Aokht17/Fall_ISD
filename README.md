@@ -29,16 +29,19 @@ To make a genome-wide search, two principal tools were used. We performed genome
 ## Results
 As a result, many unidentified loci were found, as well as non-coding RNAs. Among the detected protein products, the majority does not have tissue-specific expression. 
 3 loci encoding tissue-specific peptides were identified:
-| gene | location | tissue |
-|:---------------------------|:----------------:|:---------------------------:|
-|ERVW-1 (also known as HERV-W)| 7q21. 2| testis and placenta|
-|ERVV-1 (also known as HERV-V1)|19q13.41 |kidney and some parts of the brain|
-|ERVV-2 (HERV-V2)| 19q13.41 |kidney|
+|              gene              | location |             tissue             |
+|:------------------------------:|:--------:|:------------------------------:|
+|  ERVW-1 (also known as HERV-W) |  7q21. 2 |       testis and placenta      |
+| ERVV-1 (also known as HERV-V1) | 19q13.41 | kidney and some parts of brain |
+|        ERVV-2 (HERV-V2)        | 19q13.41 |             kidney             |
 
 ## References
-Grandi, N., & Tramontano, E. (2018). *HERV Envelope Proteins: Physiological Role and Pathogenic Potential in Cancer and Autoimmunity*. Frontiers in Microbiology, 9.
-Blinov, V. M., Krasnov, G. S., Shargunov, A. V., Shurdov, M. A., & Zverev, V. V. (2013). *Immunosuppressive domains of retroviruses: Cell mechanisms of the effect on the human immune system*. Molecular Biology, 47(5), 613–621.
-Heidmann, O., Béguin, A., Paternina, J., Berthier, R., Deloger, M., Bawa, O., & Heidmann, T. (2017). *HEMO, an ancestral endogenous retroviral envelope protein shed in the blood of pregnant women and expressed in pluripotent stem cells and tumors. Proceedings of the National Academy of Sciences*, 114(32), E6642–E6651. 
+Grandi, N., & Tramontano, E. (2018). *HERV Envelope Proteins: Physiological Role and Pathogenic Potential in Cancer and Autoimmunity*. Frontiers in Microbiology, 9.  
+
+Blinov, V. M., Krasnov, G. S., Shargunov, A. V., Shurdov, M. A., & Zverev, V. V. (2013). *Immunosuppressive domains of retroviruses: Cell mechanisms of the effect on the human immune system*. Molecular Biology, 47(5), 613–621.  
+
+Heidmann, O., Béguin, A., Paternina, J., Berthier, R., Deloger, M., Bawa, O., & Heidmann, T. (2017). *HEMO, an ancestral endogenous retroviral envelope protein shed in the blood of pregnant women and expressed in pluripotent stem cells and tumors. Proceedings of the National Academy of Sciences*, 114(32), E6642–E6651.  
+
 Lonsdale et al. (2013). *The Genotype-Tissue Expression (GTEx) project*. Nature Genetics, 45(6), 580–585. 
 
 
